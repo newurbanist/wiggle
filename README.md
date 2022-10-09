@@ -1,15 +1,11 @@
-# h1 heading
-## h2 heading
-### h3 heading
-#### h4 heading
-##### h5 heading
-###### h6 heading
+## you made it!
+### virtual high five
 
-**this is bold text**
-__this is bold text__
+<br>
 
-*this is italic text*
-_this is italic text_
-
-~~this is strikethrough~~
+**contents**
+-elevator intro
+-stuck-for-several-hours-in-an-elevator intro
+-things i think about too much
+-what I'm up to
 
