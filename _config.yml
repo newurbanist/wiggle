@@ -35,14 +35,14 @@ email: jenfox54@gmail.com
 show_hero: true
 
 menu:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: elevator intro
+    url: /elevator
+  - title: several hours in elevator intro
+    url: /XLevator
+  - title: overthoughts
+    url: /overthoughts
+  - title: ongoings
+    url: /ongoings
 
 
 #########################
