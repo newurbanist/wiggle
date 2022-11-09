@@ -6,7 +6,7 @@ url:                 newurbanist.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
-remote_theme:        poole/lanyon
+theme:               poole/lanyon
 
 # About/contact
 author:
