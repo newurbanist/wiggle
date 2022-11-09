@@ -82,7 +82,7 @@ show_get_theme_btn: true
 use_logo: false
 
 # Content paginator
-paginate_content:
+paginate_content: 4
   enabled: true
   debug: false
   collections:
