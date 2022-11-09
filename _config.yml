@@ -15,36 +15,6 @@ kramdown:
 remote_theme: thiagorossener/jekflix-template
 
 
-
-#################
-# Site Settings #
-#################
-
-name: cashew urbanism
-title: a personal site
-description: somewhere for me to place the thoughts that keep me up
-
-tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: jenfox54@gmail.com
-
-show_hero: true
-
-menu:
-  - title: elevator intro
-    url: /elevator
-  - title: several hours in elevator intro
-    url: /XLevator
-  - title: overthoughts
-    url: /overthoughts
-  - title: ongoings
-    url: /ongoings
-
-
 #########################
 # Social Media Settings #
 #########################
